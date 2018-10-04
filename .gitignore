@@ -4,6 +4,7 @@
 build/
 packages
 .packages
+.flutter-plugins
 
 # Or the files created by dart2js.
 *.dart.js
@@ -22,3 +23,8 @@ pubspec.lock
 .idea/
 
 \.DS_Store
+ios/Flutter/Generated.xcconfig
+android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+android/local.properties
+ios/Runner/GeneratedPluginRegistrant.h
+ios/Runner/GeneratedPluginRegistrant.m
